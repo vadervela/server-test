@@ -1,5 +1,4 @@
 github.com/vadervela/compiler-test v0.1.2 h1:nWVjKnhBkj5NVQ6Lby3iBMbFfJIpc8hn7i470dNSFb0=
 github.com/vadervela/compiler-test v0.1.2/go.mod h1:KyUS89CP+K25+Z5sXA4k6Qhtan2cEuEblJIUXQs4szI=
-github.com/vadervela/types-test v0.1.1 h1:FjtDB9QY/qWvIxjSGDkyhri7QfoaDdzMV5/MXstf1z8=
-github.com/vadervela/types-test v0.1.1/go.mod h1:N8fqOSZPIdavth2k2BWXGfeBCJd5d6CxDvV/U6lYTlE=
+github.com/vadervela/types-test v0.1.3 h1:m0rfhZXfK9G9NLNO7qTzEqjoPVV4RoHE9FJjaZbQcLI=
 github.com/vadervela/types-test v0.1.3/go.mod h1:N8fqOSZPIdavth2k2BWXGfeBCJd5d6CxDvV/U6lYTlE=
