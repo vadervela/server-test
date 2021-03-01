@@ -1,5 +1,4 @@
-github.com/vadervela/compiler-test v0.1.5 h1:jDdZBxvSHa4DgAp3nvQiDJHWkRzsB53Zdcf66AtTVuE=
-github.com/vadervela/compiler-test v0.1.5/go.mod h1:NWYhzPQ3mWeNkzRB8IZTuBhQBJFZf04BNdso/kaeaRo=
-github.com/vadervela/types-test v0.1.5/go.mod h1:N8fqOSZPIdavth2k2BWXGfeBCJd5d6CxDvV/U6lYTlE=
-github.com/vadervela/types-test v0.1.9 h1:C5o69mZTszyFe0QbgHJ55yVO4GkDQAuda1W5VCtP1G4=
-github.com/vadervela/types-test v0.1.9/go.mod h1:N8fqOSZPIdavth2k2BWXGfeBCJd5d6CxDvV/U6lYTlE=
+github.com/vadervela/compiler-test v0.1.7 h1:574jG2hmCZVd+TzBEsKKIRZHk27YePXIeKZF6GnXewk=
+github.com/vadervela/compiler-test v0.1.7/go.mod h1:vNRZH8YyUike3kng3KNSpmSf0RliJSnyxxyHcWb5TBc=
+github.com/vadervela/types-test v0.1.12 h1:6MZdmhJ7yBiHsupIhXCAnQhM7ehdJ0iYZ0mxWn56VXw=
+github.com/vadervela/types-test v0.1.12/go.mod h1:N8fqOSZPIdavth2k2BWXGfeBCJd5d6CxDvV/U6lYTlE=
